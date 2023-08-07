@@ -23,7 +23,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a aprender desenvolvi
 ## 📛 Direitos autorais
 
 > Alguns projetos desse repositório foram construídos e inspirados de fontes estrangeiras. Em cada vídeo do canal, na descrição, as fontes sempre são expostas. Mas, de modo geral, reúno todas elas aqui, em respeito ao ótimo trabalho dos seus criadores ORIGAMID. 
-- [Site](https://pythonando.com.br/) - Bikcraft - Bicicletas Elétricas
+- [Site](https://zeldinha00.github.io/Projeto_Bikcraft/) - Bikcraft - Bicicletas Elétricas
 - [Figma do projeto ](https://www.figma.com/file/fWgoKoRlSgnV5RTRK9A2wO/0801-imagens-e-icones?type=design&node-id=3%3A72&mode=design&t=42t98nwDx8QLLtsd-1) - Projeto Figma
 
 ## 💡 Ícones
