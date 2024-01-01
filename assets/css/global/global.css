@@ -1,0 +1,28 @@
+/* Resete css */
+
+body {
+    margin: 0px;
+    color: #111111;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    padding: 0px;
+    list-style: none;
+}
+
+h1,
+ul,
+p {
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
